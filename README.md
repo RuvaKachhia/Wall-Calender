@@ -88,3 +88,4 @@ src/
 4. **Add a note** — type in the notes box and click Save (or Ctrl+Enter)
 5. **Delete a note** — hover a note and click ×
 6. **Toggle theme** — click 🌙/☀️ in the top-right of the hero panel
+# Wall-Calender
