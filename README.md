@@ -6,7 +6,7 @@ A polished, interactive wall calendar built with **Next.js 14**, **TypeScript**,
 ##  Features
 
 - Wall Calendar Aesthetic with Seasonal panel with gradient that changes every month 
-- Day Range Selector | Click start → hover preview → click end. Visual states for start, end, in-between 
+- Day Range Selector on Click start → hover preview → click end. Visual states for start, end, in-between 
 - Notes to add notes per date, per range, or monthly
 - Dark and Light Mode which toggle with one click 
 - Holiday Markers represents Indian public holidays and global holidays with emoji badges 
